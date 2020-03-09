@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="my-project-regist-web" />
-        <module name="my-project-fegin" />
-        <module name="my-project-eureka-server" />
-        <module name="my-project-regist-service" />
+        <module name="my-project-entity" />
         <module name="my-project-zuul" />
+        <module name="my-project-eureka-server" />
+        <module name="my-project-mapper" />
+        <module name="my-project-fegin" />
+        <module name="my-project-regist-service" />
+        <module name="my-project-regist-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +21,7 @@
       <module name="my-project-entity" target="1.5" />
       <module name="my-project-eureka-server" target="1.8" />
       <module name="my-project-fegin" target="1.8" />
+      <module name="my-project-mapper" target="1.5" />
       <module name="my-project-regist-service" target="1.8" />
       <module name="my-project-regist-web" target="1.8" />
       <module name="my-project-zuul" target="1.8" />
