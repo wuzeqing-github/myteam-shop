@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-project-common/my-project-common.iml" filepath="$PROJECT_DIR$/my-project-common/my-project-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-eureka-server/my-project-eureka-server.iml" filepath="$PROJECT_DIR$/my-project-eureka-server/my-project-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-fegin/my-project-fegin.iml" filepath="$PROJECT_DIR$/my-project-fegin/my-project-fegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-regist-service/my-project-regist-service.iml" filepath="$PROJECT_DIR$/my-project-regist-service/my-project-regist-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-regist-web/my-project-regist-web.iml" filepath="$PROJECT_DIR$/my-project-regist-web/my-project-regist-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-project-zuul/my-project-zuul.iml" filepath="$PROJECT_DIR$/my-project-zuul/my-project-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myteam-shop.iml" filepath="$PROJECT_DIR$/.idea/myteam-shop.iml" />
+    </modules>
+  </component>
+</project>

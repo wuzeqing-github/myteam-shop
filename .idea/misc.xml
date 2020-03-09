@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/my-project-common/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-regist-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-regist-web/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-fegin/pom.xml" />
+        <option value="$PROJECT_DIR$/my-project-zuul/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/my-project-entity/pom.xml" />
+      </set>
+    </option>
+  </component>
+</project>
